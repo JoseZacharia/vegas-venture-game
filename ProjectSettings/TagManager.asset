@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Heart
+  - Trap
+  - Enemy
+  - Bullet
+  - Key
+  - Ground
+  - Jump Platform
+  - Checkpoint
+  - Ammo
+  - Border
+  - Slo Mo
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Invincibility
+  - Obstacles
+  - Collectibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3380952771
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 355223117
+    locked: 0
